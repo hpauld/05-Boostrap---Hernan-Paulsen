@@ -1,0 +1,82 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body {
+    font-family: 'BIZ UDGothic',
+        sans-serif;
+}
+
+
+.logo_img {
+    height: 50px;
+    padding-right: 15px;
+}
+
+.col-6 span{
+align-items: center;
+}
+.col-6 a {
+    font-size: 25px;
+    text-decoration: none;
+}
+
+.col-6 a span {
+    color: black;
+}
+.carousel-inner {
+    padding-top: 20px;
+}
+
+.carousel-inner img {
+    max-height: 600px;
+    object-fit: cover;
+}
+
+.carousel-caption {
+    color: whitesmoke;
+    font-weight: bolder;
+}
+
+.container-servicios {
+    padding-top: 30px;
+}
+
+.tarjetas {
+    padding: 25px 0px;
+}
+
+footer {
+    color: white;
+    background-color: black;;
+    padding: 20px;
+
+}
+
+
+
+
+
+/*SECCION NOSOTROS*/
+
+.seccion1{
+    align-items: center;
+    text-align: end;
+    height: 600px;
+    background-image: url(Multimedia/Nosotros.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 50% 100%;
+    font-size: 30px;
+    font-weight: 300;
+    color:blanchedalmond
+}
+
+.seccion2 img{
+     border-radius: 25%;
+     max-width: 300px
+}
+
+.texto_nos{
+    text-align: justify;
+}
